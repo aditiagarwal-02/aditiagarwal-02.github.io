@@ -1,81 +1,67 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Image-to-Image Deep Learning for Climate and Weather Modelling
+
+# description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
+img: assets/img/climate.gif
+# redirect: https://brick-kilns-detector.streamlit.app/
+importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+github: https://github.com/aditiagarwal-02/Climax_project_autoencoder
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Project Description
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The global toll of seven million lives annually due to air pollution underscores the urgent need to address the significant contribution of Particulate Matter (PM2.5 and PM10). These airborne particles pose a critical threat to public health as they can be readily inhaled into the lungs. Various robust sensors have been built to measure the concentration of particulate matter at multiple locations. However, sensors are expensive, prone to error, and noisy. Another set of techniques involves the utilization of environmental parameters such as surface temperature, snow cover, soil moisture content, etc., for forecasting. Chemical transport models is one such technique that relies on physical non-linear equation systems for estimating PM concentrations. However, these models are highly complex and thus time-consuming. Through this project, we aim to develop data-driven approaches, particularly cutting-edge techniques such as Autoencoders for predicting Particulate Matter(PM) concentrations using environmental parameters. We also explore the utilization of partial or single input features for forecasting.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
+<!-- <big><b>Research Paper accepted at NeurIPS 2023 Workshop on Active Learning in the Real World,2023. Here's the published [version](https://drive.google.com/file/d/1feZUEhzxBBCxrD9e98_UFtD1Ygvbqjlj/view?usp=drive_link)</b></big> -->
+
+- [View the Report](https://drive.google.com/file/d/1Zg8O5x6UYMO3UjyfoHE9e6yqc-S9_czG/view?usp=drive_link)
+<!-- - [GitHub Repository](https://github.com/aditiagarwal-02/brick-kiln) -->
+
+## Project Showcase
+
+<h3>Environmental Parameters to forecast PM concentrations</h4>
+
+<!-- Row 1 -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Final Presentation_page-0007.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Utiliizng environmental paramters as input</div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Final Presentation_page-0009.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Output Particulate Matter(PM) concentrations</div>
+    </div>
+</div>
+
+<!-- Row 2 -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Caption for the third image.</div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Caption for the fourth image.</div>
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
+<!-- Row 3 -->
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Caption for the fifth image.</div>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Caption for the sixth image.</div>
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
+<!-- Row 4 -->
+<!-- ... (similar structure for additional rows) -->
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

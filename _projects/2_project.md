@@ -2,7 +2,7 @@
 layout: page
 title: Monitoring Lifestyle Diseases using Wearable Activity Sensors
 # description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
-img: assets/img/p1_cover.jpg
+img: assets/img/lifestyle.png
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 2
 category: work
