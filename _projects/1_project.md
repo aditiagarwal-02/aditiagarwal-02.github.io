@@ -36,27 +36,56 @@ The global toll of seven million lives annually due to air pollution underscores
     </div>
 </div>
 
+<h3>Research Questions</h4>
+
+
 <!-- Row 2 -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">Caption for the third image.</div>
+        {% include figure.html path="assets/img/Final Presentation_page-0011.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the third image.</div> -->
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">Caption for the fourth image.</div>
+        {% include figure.html path="assets/img/Final Presentation_page-0013.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the fourth image.</div> -->
     </div>
 </div>
 
 <!-- Row 3 -->
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">Caption for the fifth image.</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Final Presentation_page-0014.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the third image.</div> -->
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">Caption for the sixth image.</div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Final Presentation_page-0015.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the fourth image.</div> -->
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Final Presentation_page-0016.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the fourth image.</div> -->
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Final Presentation_page-0017.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the third image.</div> -->
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Final Presentation_page-0018.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the fourth image.</div> -->
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Final Presentation_page-0019.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the fourth image.</div> -->
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Final Presentation_page-0020.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- <div class="caption">Caption for the third image.</div> -->
     </div>
 </div>
 
