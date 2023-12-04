@@ -24,7 +24,7 @@ The global toll of seven million lives annually due to air pollution underscores
 
 This section contains a few snippets from the primary research questions adressed in the project. The complete report can be found [here](https://drive.google.com/file/d/1Zg8O5x6UYMO3UjyfoHE9e6yqc-S9_czG/view?usp=drive_link).
 
-</br>
+<br>
 
 
 <h4>Environmental Parameters to forecast PM concentrations</h4>
@@ -43,7 +43,7 @@ This section contains a few snippets from the primary research questions adresse
 
 <h4>Research Questions</h4>
 
-</br>
+<br>
 
 <h5>Can we train a MLP AutoEncoder which uses a single channel as input?</h5>
 
