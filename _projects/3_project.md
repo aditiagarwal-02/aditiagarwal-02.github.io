@@ -30,5 +30,3 @@ Air quality kills 7 million people worldwide every year. Brick kilns are a major
 <div class="caption">
     Leveraging Active Learning for Brick Kiln Detection
 </div>
-
-https://drive.google.com/file/d/1_d8GSs3bfefmdshbn0zbPs9n2jukIKLu/view?usp=sharing
