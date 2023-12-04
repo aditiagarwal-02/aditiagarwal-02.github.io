@@ -22,7 +22,7 @@ The global toll of seven million lives annually due to air pollution underscores
 
 ## Project Showcase
 
-<h3>Environmental Parameters to forecast PM concentrations</h4>
+<h3>Environmental Parameters to forecast PM concentrations</h3>
 
 <!-- Row 1 -->
 <div class="row">
@@ -36,7 +36,7 @@ The global toll of seven million lives annually due to air pollution underscores
     </div>
 </div>
 
-<h3>Research Questions</h4>
+<h3>Research Questions</h3>
 
 
 <!-- Row 2 -->
