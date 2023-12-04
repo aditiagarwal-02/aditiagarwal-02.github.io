@@ -3,7 +3,7 @@ layout: page
 title: Image-to-Image Deep Learning for Climate and Weather Modelling
 
 # description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
-gif: assets/img/climate.gif
+img: assets/img/climate.jpg
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 3
 category: work
