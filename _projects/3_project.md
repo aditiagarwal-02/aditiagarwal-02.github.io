@@ -4,19 +4,20 @@ title: Towards Scalable Identification of Brick Kilns through Active Learning
 description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
 img: assets/img/p1_cover.jpg
 # redirect: https://brick-kilns-detector.streamlit.app/
-importance: 3
+importance: 1
 category: work
-github_repo: https://github.com/ouranonymoussubmission/brick-kiln
+github: https://github.com/aditiagarwal-02/brick-kiln
+
 ---
 
 # Project Description
 
 Air quality kills 7 million people worldwide every year. Brick kilns are a major source of air pollution in South Asia. This project utilizes a Brick Kilns Detector to identify brick kilns in satellite images. The detector is built using a deep learning model which takes in the coordinates and detects the brick kilns in the given area. The project leverages active learning to significantly reduce the manual annotation overhead costs and efforts. The detector is deployed as a web app using Streamlit.
 
-<big>Research Paper accepted at NeurIPS 2023 Workshop on Active Learning in the Real World,2023. Here's the published [version](https://drive.google.com/file/d/1feZUEhzxBBCxrD9e98_UFtD1Ygvbqjlj/view?usp=drive_link)</big>
+<big><b>Research Paper accepted at NeurIPS 2023 Workshop on Active Learning in the Real World,2023. Here's the published [version](https://drive.google.com/file/d/1feZUEhzxBBCxrD9e98_UFtD1Ygvbqjlj/view?usp=drive_link)</b></big>
 
 - [View the Streamlit App](https://brick-kilns-detector.streamlit.app/)
-- [GitHub Repository](https://github.com/ouranonymoussubmission/brick-kiln)
+- [GitHub Repository](https://github.com/aditiagarwal-02/brick-kiln)
 
 ## Project Showcase
 
@@ -30,3 +31,4 @@ Air quality kills 7 million people worldwide every year. Brick kilns are a major
     Leveraging Active Learning for Brick Kiln Detection
 </div>
 
+https://drive.google.com/file/d/1_d8GSs3bfefmdshbn0zbPs9n2jukIKLu/view?usp=sharing

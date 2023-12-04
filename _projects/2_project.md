@@ -1,81 +1,40 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Monitoring Lifestyle Diseases using Wearable Activity Sensors
+# description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
+img: assets/img/p1_cover.jpg
+# redirect: https://brick-kilns-detector.streamlit.app/
 importance: 2
 category: work
-giscus_comments: true
+github: https://drive.google.com/file/d/1_d8GSs3bfefmdshbn0zbPs9n2jukIKLu/view?usp=sharing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Project Description
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The burgeoning prevalence of lifestyle diseases necessitates innovative solutions that leverage cuttingedge
+technologies to enable proactive health management. This project is dedicated to the development
+of a robust data-driven machine-learning framework, harnessing the potential of wearable
+activity sensors, to address the current void in comprehensive design methods, principles, and ethical
+guidelines for optimizing the use of sensor data in promoting a healthy lifestyle.
+• Develop an end-to-end data driven machine learning pipeline for user-specific personalized recommendations.
+• Focus on four primary diseases that occur due to a sedentary lifestyle-CVD, COPD, Diabetes and obesity.
+• Enable real-time user data collection using wearable activity sensors.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<!-- <big><b>Research Paper accepted at NeurIPS 2023 Workshop on Active Learning in the Real World,2023. Here's the published [version](https://drive.google.com/file/d/1feZUEhzxBBCxrD9e98_UFtD1Ygvbqjlj/view?usp=drive_link)</b></big> -->
+
+- [View the Report](https://drive.google.com/file/d/1_d8GSs3bfefmdshbn0zbPs9n2jukIKLu/view?usp=sharing)
+<!-- - [GitHub Repository](https://github.com/aditiagarwal-02/brick-kiln) -->
+
+## Project Showcase
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Prohealth_page-0001.jpg" title="Project Cover Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+    Data-driven machine learning framework for
+monitoring lifestyle diseases using wearable
+activity sensors</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
