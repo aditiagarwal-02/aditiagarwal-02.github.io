@@ -22,7 +22,7 @@ The global toll of seven million lives annually due to air pollution underscores
 
 ## Project Showcase
 
-<h3>Environmental Parameters to forecast PM concentrations</h3>
+<h4>Environmental Parameters to forecast PM concentrations</h4>
 
 <!-- Row 1 -->
 <div class="row">
@@ -36,7 +36,10 @@ The global toll of seven million lives annually due to air pollution underscores
     </div>
 </div>
 
-<h3>Research Questions</h3>
+<h4>Research Questions</h4>
+
+<h5>Can we train a MLP AutoEncoder which uses a single channel as input?</h5>
+
 
 
 <!-- Row 2 -->
@@ -50,6 +53,9 @@ The global toll of seven million lives annually due to air pollution underscores
         <!-- <div class="caption">Caption for the fourth image.</div> -->
     </div>
 </div>
+
+<h5>Can we utilize a Convolutional Autoencoder which can take single as well as multiple input channels?</h5>
+
 
 <!-- Row 3 -->
 <div class="row">
@@ -67,6 +73,9 @@ The global toll of seven million lives annually due to air pollution underscores
     </div>
 </div>
 
+<h5>Can we utilize UNet architecture across single and multiple channel inputs?</h5>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Final Presentation_page-0017.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -81,6 +90,9 @@ The global toll of seven million lives annually due to air pollution underscores
         <!-- <div class="caption">Caption for the fourth image.</div> -->
     </div>
 </div>
+
+<h5>Can we use only a subset of the channels for training?</h5>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
