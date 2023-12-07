@@ -2,7 +2,7 @@
 layout: page
 title: BERT based Sentiment Analysis
 # description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
-img: assets/img/p5.jpg
+img: assets/img/p5.png
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 5
 category: work

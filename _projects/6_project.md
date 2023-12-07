@@ -2,7 +2,7 @@
 layout: page
 title: Language Modelling and Smoothing on Reddit Corpus
 # description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
-img: assets/img/p6.jpg
+img: assets/img/p6.png
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 6
 category: work

@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Task Specific Fine Tuning of BERT
-# description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
-img: assets/img/p7.png
+title: Web based tool for ISRO's AstroSat observations
+description: Inter IIT Technical Meet 2021
+img: assets/img/p8.png
 # redirect: https://brick-kilns-detector.streamlit.app/
-importance: 7
+importance: 8
 category: work
-github: https://github.com/CS613-NLP/assignment-3
+github: https://github.com/aditiagarwal-02/Web-based-tool-for-ISRO-AstroSat-observations
 
 ---
 
 # Project Description
 
-This project focuses on doing task-specific fine-tuning of BERT. The project explores the utilization of BERT for the task of question answering on the SQuAD dataset. The project also utilizes BERT for the task of text classification on the SST-2 dataset. Through this project, we aim to explore the utilization of LLMs specific use-cases and evaluate the performance of BERT on these tasks.
+AstroSat is India's first dedicated multi-wavelength space observatory. It was launched on a PSLV-XL on 28 September 2015. AstroSat is a multi-wavelength astronomy satellite. The project aims to build a web-based tool for ISRO's AstroSat observations. This tool would be used to visualize the data and perform analysis on the data while identifying the sources which have been previously identified. The tool is built using Streamlit.
 
-- [Project Report](https://github.com/CS613-NLP/assignment-3/blob/main/report.pdf)
-- [GitHub Repository](https://github.com/CS613-NLP/assignment-3)
+- [View the Streamlit App](https://mannjain1609-inter-iit-mid-prep-main-j084pu.streamlit.app/)
+- [GitHub Repository](https://github.com/aditiagarwal-02 Web-based-tool-for-ISRO-AstroSat-observations)
 
 
