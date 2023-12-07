@@ -1,6 +1,6 @@
 ---
 layout: about
-title: aboutaa
+title: aboutcc
 permalink: /newabout/
 subtitle: Deep Learning, Computer Vision, Probabilistic Machine Learning, Natural Language Processing
 
