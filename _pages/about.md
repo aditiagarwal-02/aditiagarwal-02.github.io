@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Deep Learning, Computer Vision, Probabilistic Machine Learning, Natural Language Processing
 

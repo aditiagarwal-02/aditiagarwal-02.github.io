@@ -1,6 +1,6 @@
 ---
 layout: page
-title: professional experiences
+title: Professional Experiences
 permalink: /profexp/
 nav: true
 nav_order: 2
