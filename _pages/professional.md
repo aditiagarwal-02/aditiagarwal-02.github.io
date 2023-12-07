@@ -1,127 +1,46 @@
 ---
 layout: page
-title: professional experiences
+title: Professional Experiences
 permalink: /profexp/
 nav: true
 nav_order: 2
 horizontal: false
 ---
 
-# Google Inc.
+# Brick Kiln Detection from Satellite Imagery with Active Learning | Sustainability Lab, IITGN [July’23 - Aug’23]
 
-**Position:** Software Engineer  
-**Duration:** January 2018 - Present
+**Position:** Research Intern  
+**Advisor:** Prof. Nipun Batra  
+**Duration:** July 2023 - August 2023
 
-## Overview
+- Research Paper accepted at NeurIPS 2023 Workshop on Active Learning in the Real World, 2023.
+- Implemented Active Learning technique to enhance the effectiveness of Deep Learning for detection of bricks kilns throughout India achieving state-of-the-art accuracy with just 15% of the original dataset.
+- Leveraged Google Earth Engine Pro for extensive satellite data, enabling reproducible data acquisition and labeling, achieving heightened precision with minimal input and minimal manual intervention.
 
-I am a highly motivated and results-oriented software engineer with a strong background in developing scalable and innovative software solutions. I joined Google in January 2018 and have been an integral part of various projects within the company.
+# Thoucentric Labs.ai, Bengaluru, India [May’23 - July’23]
 
-## Key Achievements
+**Position:** Applied Research Intern, Machine Learning  
+**Advisor:** Mr. Kumar Apurva  
+**Duration:** May 2023 - July 2023
 
-### Project X: Building Scalable Cloud Services
+- Tackled a solo, research-intensive problem statement to design, develop and deploy non-parametric stable probabilistic confidence intervals to communicate business-centric prediction uncertainties across various AI products.
+- Designed, developed, and deployed an end-to-end robust ML pipeline for a demand forecasting business solution for a major FMCG brand using Azure Data Factory, orchestrating seamless data flow, analysis, and model deployment.
 
-- Led a team of engineers in the design and implementation of a critical component for Google Cloud Services.
-- Improved service reliability by 20% through the optimization of resource utilization and implementation of proactive monitoring systems.
-- Collaborated with cross-functional teams to ensure seamless integration with other Google Cloud products.
+# Kirana Club (Previously Retail Pulse.ai), Bengaluru, India [May’22 - July’22]
 
-### Project Y: Machine Learning Integration
+**Position:** Machine Learning Intern  
+**Advisors:** Mr. Shubhankar Mohan, Mr. Aditya Kumar  
+**Duration:** May 2022 - July 2022
 
-- Worked on integrating machine learning algorithms into a core product, resulting in a 30% improvement in user engagement.
-- Collaborated with Google Research to implement cutting-edge algorithms and enhance product capabilities.
+- Performed product detection, classification on retail store images to generate data-based business insights for FMCG companies using CNN, R-CNN, and YOLO.
+- Developed a fraud engine to identify frauds such as screen-to-screen images, duplicate images, near similar images, and achieving a 37% fraud detection rate on 3 million images using the EfficientNet Model classes.
+- Worked closely with the Product team to build algorithms for retrieving daily commodity prices, user review-based vote system, and a probabilistic reward system using data science techniques.
 
-## Skills and Technologies
+# Necessario Innovations, IIT Gandhinagar, Gujarat, India [Jan ’21-Feb ’22]
 
-- **Programming Languages:** Java, Python, Go
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Cloud Services:** Google Cloud Platform (GCP)
-- **Database Systems:** Bigtable, Firestore, MySQL
+**Position:** Computer Vision Intern  
+**Advisor:** Mr. Imtiyaz Ansari  
+**Duration:** January 2021 - February 2022
 
-## Education
-
-**Bachelor of Science in Computer Science**  
-University Name, Graduation Date
-
-## Certifications
-
-- Google Cloud Professional Developer Certification
-- [Other relevant certifications]
-
-## Publications
-
-- [Title of Published Paper, if applicable]
-
-## Open Source Contributions
-
-- Contributed to open source projects, including [Project Name and Link].
-
-## Personal Projects
-
-- Developed a [personal project] that showcases my skills in [specific area, e.g., mobile app development, machine learning].
-
-## Awards and Recognition
-
-- Received [any awards or recognition] for outstanding contributions to projects or team collaboration.
-
-## Professional Memberships
-
-- Member of [any relevant professional organizations or communities].
-
----
-
-# Microsoft Corporation
-
-**Position:** Data Scientist  
-**Duration:** July 2020 - Present
-
-## Overview
-
-As a Data Scientist at Microsoft, I play a pivotal role in extracting valuable insights from complex datasets to drive data-driven decision-making processes.
-
-## Key Achievements
-
-### Project A: Predictive Analytics for Business Intelligence
-
-- Developed predictive models to forecast key business metrics, resulting in a 15% improvement in forecasting accuracy.
-- Collaborated with cross-functional teams to integrate data-driven insights into business intelligence tools.
-
-### Project B: Customer Segmentation and Personalization
-
-- Led a team in the analysis of customer data to create personalized experiences, contributing to a 20% increase in user engagement.
-- Implemented machine learning algorithms for customer segmentation, enabling targeted marketing strategies.
-
-## Skills and Technologies
-
-- **Programming Languages:** Python, R
-- **Machine Learning Frameworks:** TensorFlow, Scikit-learn
-- **Data Analysis and Visualization:** Pandas, Matplotlib, Power BI
-- **Big Data Technologies:** Azure Data Lake, Apache Spark
-
-## Education
-
-**Master of Science in Data Science**  
-University Name, Graduation Date
-
-## Certifications
-
-- Microsoft Certified: Azure Data Scientist Associate
-- [Other relevant certifications]
-
-## Publications
-
-- [Title of Published Paper, if applicable]
-
-## Open Source Contributions
-
-- [Any relevant contributions to open source projects].
-
-## Personal Projects
-
-- [Any personal data science projects].
-
-## Awards and Recognition
-
-- [Any awards or recognition received at Microsoft].
-
-## Professional Memberships
-
-- Member of [any relevant professional organizations or communities].
+- Improvised the image capture quality of HDR images clicked by Snapper, an AI-powered automated camera using OpenCV and Gstreamer, a pipeline-based framework.
+- Implemented Convolutional Neural Networks using NVIDIA JETSON NANO to enhance images, restore distorted and dark image sections, identify objects in an image, etc.
