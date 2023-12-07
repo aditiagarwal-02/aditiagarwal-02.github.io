@@ -2,7 +2,7 @@
 layout: page
 title: Image-to-Image Deep Learning for Climate and Weather Modelling
 
-# description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
+description: Utilizing Autoencoders for forecasting Particulate Matter(PM) concentrations using environmental parameters to improve the accuracy of Chemical Transport Models(CTMs).
 img: assets/img/climate.jpg
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 3

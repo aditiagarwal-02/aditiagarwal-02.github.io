@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BERT based Sentiment Analysis
-# description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
+description: Utilizing pretrained BERT for sentiment analysis on Reddit corpus
 img: assets/img/p5.png
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 5

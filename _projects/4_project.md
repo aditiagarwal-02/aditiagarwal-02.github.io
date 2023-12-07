@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spatio-Temporal Interpolation on AQI data with Uncertainity
-# description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
+description: Prediction of AQI values across Delhi NCR region using Heteroskedastic MLP
 img: assets/img/p4.jpg
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 4

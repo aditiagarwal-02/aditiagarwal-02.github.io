@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning, Deep Learning, Computer Vision, Probabilistic Machine Learning
+subtitle: Deep Learning, Computer Vision, Probabilistic Machine Learning, Natural Language Processing
 
 profile:
   align: right

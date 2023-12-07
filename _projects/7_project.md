@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Task Specific Fine Tuning of BERT
-# description: Identifying brick kilns across India and reducing manual annotation efforts using active learning by 30%.
+description: Fine tuning and pretraining BERT based LLMs for specific tasks.
 img: assets/img/p7.png
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 7
