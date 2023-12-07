@@ -2,7 +2,7 @@
 layout: page
 title: Web based tool for ISRO's AstroSat observations
 description: Inter IIT Technical Meet 2021
-img: assets/img/p8.png
+img: assets/img/p8.jpg
 # redirect: https://brick-kilns-detector.streamlit.app/
 importance: 8
 category: work
