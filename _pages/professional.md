@@ -1,7 +1,7 @@
 ---
-layout: industrial_experience
+layout: page
 title: professional experiences
-permalink: /newabout/
+permalink: /profexp/
 nav: true
 nav_order: 2
 horizontal: false
