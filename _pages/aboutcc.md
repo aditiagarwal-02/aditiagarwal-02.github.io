@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
+title: aboutaa
+permalink: /newabout/
 subtitle: Deep Learning, Computer Vision, Probabilistic Machine Learning, Natural Language Processing
 
 profile:
