@@ -2,6 +2,8 @@
 layout: about
 title: aboutcc
 permalink: /newabout/
+nav: true
+nav_order: 2
 subtitle: Deep Learning, Computer Vision, Probabilistic Machine Learning, Natural Language Processing
 
 profile:
