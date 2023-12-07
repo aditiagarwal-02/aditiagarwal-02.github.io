@@ -11,7 +11,8 @@ horizontal: false
 
 <br>
 
-**<h4>Industrial Experience</h4>**
+#### **Industrial Experience**
+
 
 
 ---
@@ -58,7 +59,8 @@ horizontal: false
 
 <br>
 
-**<h4>Academic Experience</h4>**
+#### **Academic Experience**
+
 
 
 
