@@ -11,8 +11,7 @@ horizontal: false
 
 <br>
 
-<h5>Industrial Experience</h5>
-<br>
+**<h4>Industrial Experience</h4>**
 
 
 ---
@@ -23,7 +22,7 @@ horizontal: false
 **Advisor:** Mr. Kumar Apurva  
 **Duration:** May 2023 - July 2023
 
----
+
 
 - Tackled a solo, research-intensive problem statement to design, develop and deploy non-parametric stable probabilistic confidence intervals to communicate business-centric prediction uncertainties across various AI products.
 - Designed, developed, and deployed an end-to-end robust ML pipeline for a demand forecasting business solution for a major FMCG brand using Azure Data Factory, orchestrating seamless data flow, analysis, and model deployment.
@@ -36,7 +35,7 @@ horizontal: false
 **Advisors:** Mr. Shubhankar Mohan, Mr. Aditya Kumar  
 **Duration:** May 2022 - July 2022
 
----
+
 
 - Performed product detection, classification on retail store images to generate data-based business insights for FMCG companies using CNN, R-CNN, and YOLO.
 - Developed a fraud engine to identify frauds such as screen-to-screen images, duplicate images, near similar images, and achieving a 37% fraud detection rate on 3 million images using the EfficientNet Model classes.
@@ -50,7 +49,7 @@ horizontal: false
 **Advisor:** Mr. Imtiyaz Ansari  
 **Duration:** January 2021 - February 2022
 
----
+
 
 - Improvised the image capture quality of HDR images clicked by Snapper, an AI-powered automated camera using OpenCV and Gstreamer, a pipeline-based framework.
 - Implemented Convolutional Neural Networks using NVIDIA JETSON NANO to enhance images, restore distorted and dark image sections, identify objects in an image, etc.
@@ -59,9 +58,9 @@ horizontal: false
 
 <br>
 
-<h5>Academic Experience</h5>
+**<h4>Academic Experience</h4>**
 
-<br>
+
 
 ---
 <h6>Brick Kiln Detection from Satellite Imagery with Active Learning | Sustainability Lab, IITGN</h6>
@@ -69,7 +68,6 @@ horizontal: false
 **Advisor:** Prof. Nipun Batra  
 **Duration:** July 2023 - Present
 
----
 
 - Research Paper accepted at NeurIPS 2023 Workshop on Active Learning in the Real World, 2023.
 - Implemented Active Learning technique to enhance the effectiveness of Deep Learning for detection of bricks kilns throughout India achieving state-of-the-art accuracy with just 15% of the original dataset.
@@ -82,7 +80,7 @@ horizontal: false
 **Advisor:** Prof. Yogesh Kumar Meena, IIT Gandhinagar  
 **Duration:** August 2023 - November 2023
 
----
+
 
 - Designing, developing, and prototyping an innovative AI-driven health recommendation wearable tech using User-Centered Design (UCD) principles to create a user-focused solution, enhancing health outcomes and user experience.
 - Engineering a cutting-edge recommendation system for wearable technology, combining ontological rules and data-driven machine learning algorithms by utilizing qualitative user insights, historical health data, and diverse patterns.
