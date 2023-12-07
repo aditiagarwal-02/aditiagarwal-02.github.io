@@ -7,12 +7,15 @@ nav_order: 2
 horizontal: false
 ---
 
+---
 
-<h3>Industrial Experience</h3>
+<br>
+
+<h4>Industrial Experience</h4>
 
 ---
 
-<h4>Thoucentric Labs.ai, Bengaluru, India</h4>
+<h5>Thoucentric Labs.ai, Bengaluru, India</h5>
 
 **Position:** Applied Research Intern, Machine Learning  
 **Advisor:** Mr. Kumar Apurva  
@@ -25,7 +28,7 @@ horizontal: false
 
 ---
 
-<h4>Kirana Club (Previously Retail Pulse.ai), Bengaluru, India</h4>
+<h5>Kirana Club (Previously Retail Pulse.ai), Bengaluru, India</h5>
 
 **Position:** Machine Learning Intern  
 **Advisors:** Mr. Shubhankar Mohan, Mr. Aditya Kumar  
@@ -39,7 +42,7 @@ horizontal: false
 
 ---
 
-<h4>Necessario Innovations, IIT Gandhinagar, Gujarat, India</h4>
+<h5>Necessario Innovations, IIT Gandhinagar, Gujarat, India</h5>
 
 **Position:** Computer Vision Intern  
 **Advisor:** Mr. Imtiyaz Ansari  
@@ -52,10 +55,12 @@ horizontal: false
 
 ---
 
-<h3>Academic Experience</h3>
+<br>
+
+<h4>Academic Experience</h4>
 
 
-<h4>Brick Kiln Detection from Satellite Imagery with Active Learning | Sustainability Lab, IITGN</h4>
+<h5>Brick Kiln Detection from Satellite Imagery with Active Learning | Sustainability Lab, IITGN</h5>
 
 **Advisor:** Prof. Nipun Batra  
 **Duration:** July 2023 - Present
@@ -68,7 +73,7 @@ horizontal: false
 
 ---
 
-<h4>Physical Activity eCoach System: Healthy Lifestyle with Personalized Recommendations</h4>
+<h5>Physical Activity eCoach System: Healthy Lifestyle with Personalized Recommendations</h5>
 
 **Advisor:** Prof. Yogesh Kumar Meena, IIT Gandhinagar  
 **Duration:** August 2023 - November 2023
