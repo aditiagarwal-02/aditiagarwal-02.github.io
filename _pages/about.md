@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Deep Learning, Computer Vision, Probabilistic Machine Learning, Natural Language Processing
+subtitle: Gen AI basically, LLMs and also some agents
 
 profile:
   align: right
@@ -16,6 +16,6 @@ social: true  # includes social icons at the bottom of the page
 
 <em>This is supposed to be my hook statement and meant to convince you to read further.</em>
 
-Now that you have come this far and have been hooked, let me introduce myself by saying that I am a Senior Undergraduate at IIT Gandhinagar who believes in the power of data and coding. This belief has thus fueled my interest in the field of Machine Learning, Deep Learning and Computer Vision.
+Now that you have come this far and have been hooked, let me introduce myself by saying that I am a Predoctoral Researcher at Google DeepMind. I work on Gen AI models to adapt them for messy hyperspectral unbeknownst albeit useful geospatial data efficiently.
 
-When I am not typing away on my laptop, I am an obsessive reader and a seldom writer who also likes to go on bicycle rides or play a game or two of Squash. You might as well find me engaging in friendly debates and public speaking events that tingle my opinionated brain.
+I was a nerd in highschool, continued to be a nerd in undergrad but also developed some hobbies, I am still a nerd and now have more hobbies hence I read, write, run, workout, play racquet sports and sometimes ride a bicyle all while handling Bangalore traffic on a regular basis. Head over to my blog to checkout things I build when I don't have weekend plans.
